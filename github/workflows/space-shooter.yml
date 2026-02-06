@@ -1,0 +1,19 @@
+name Update Space Shooter GIF
+on
+schedule
+- cron 0 0   
+workflow_dispatch
+permissions
+contents write
+jobs
+generate
+runs-on ubuntu-latest
+steps
+- uses actionscheckout@v4
+- name Create assets directory
+run mkdir -p assets
+- uses czl9707gh-space-shooter@v1
+with
+github-token ${{ secrets.GITHUB_TOKEN }}
+output-path assetsspace-shooter.gif
+strategy random
