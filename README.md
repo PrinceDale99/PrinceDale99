@@ -1,6 +1,9 @@
 # 💫 About Me:
 <br>- ✍️ Writing novels, short stories, and screenplays  <br>- 🎥 Filmmaking  <br>- 🎨 Poster making (specifically for films)  <br>- 🖍️ Logo designing  <br>- 💻 Web design and development  <br>- 👨‍💻 Programming (Java, Python, Lua, C++, PHP, SQL, JavaScript)  <br>- 🎮 Game development  <br>- 🎶 Music production  <br>- 📸 Photography  <br>- 🎬 Film critique  <br>- 🍳 Cooking  <br>- 🦸‍♀️ Leadership skills  <br>- 🎮 Playing online games  <br>- 📽️ Watching films (I love biographical films, horror films—specifically slasher subgenre, sci-fi, and action films)  <br>- 📚 Enjoys reading comic books  <br>- 📝 Enjoys writing essays  <br>
 
+<p align="center">
+<img src="assets/space-shooter.gif" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@princelimosnero) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Prince_Dale) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@princedale99) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DaleLimosnero) 
